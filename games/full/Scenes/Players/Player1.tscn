@@ -12,5 +12,5 @@ roughness = 0.0960784
 [node name="Player1" instance=ExtResource( 2 )]
 player_id = 1
 
-[node name="Cube Dube" parent="Skeleton" index="0"]
+[node name="Cube Dube" parent="Armature/Skeleton" index="0"]
 material/0 = SubResource( 1 )
